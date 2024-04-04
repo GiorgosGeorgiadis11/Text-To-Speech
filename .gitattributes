@@ -1,0 +1,3 @@
+###Language Use
+*.html linguist-detectable=false
+*.sh linguist-detectable=false
