@@ -1,3 +1,5 @@
+*.html linguist-vendored
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
